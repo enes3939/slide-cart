@@ -1,0 +1,31 @@
+.Body {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.MainContainer {
+    display: flex;
+    margin-top: 100px;
+}
+.Left,.Right {
+    cursor: pointer;
+    width: auto;
+    height: 100px;
+    margin-top: 90px;
+    padding: 16px;
+    color:white;
+    background-color: orange;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+
+}
+.Left:hover, .Right:hover {
+    background-color: orangered;
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+.Sepet{
+    text-align: center;
+    margin-top: 20px;
+}
+.sepetTag{
+    font-size: 30px;
+    margin-bottom: 20px;
+    background-color: orange;
+    padding: 20px;
+    width: 100%;
+}
+.Sepet .remove{
+    display:inline-block;
+    margin:10px;
+}
+.sepetİmage{
+    width: 26px;
+    margin-right: 12px;
+}

@@ -1,0 +1,33 @@
+.Box{
+    flex: 20%;
+    padding: 5px;
+}
+.Box img{
+    width: 100%;
+    height: auto;
+}
+.Title{
+    margin-top: -20px;
+    text-align: center;
+    color: orangered;
+    font-weight: bold;
+
+}
+.Box .addBasket {
+    position: relative;
+    top:-25px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:orange;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.addBasket:hover{
+    background-color: orangered;
+}
+

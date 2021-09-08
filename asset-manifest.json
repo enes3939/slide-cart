@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/enes3939/slide-cart.git/static/css/main.5adde5b5.chunk.css",
-    "main.js": "/enes3939/slide-cart.git/static/js/main.39670e9f.chunk.js",
-    "main.js.map": "/enes3939/slide-cart.git/static/js/main.39670e9f.chunk.js.map",
-    "runtime-main.js": "/enes3939/slide-cart.git/static/js/runtime-main.b2cef596.js",
-    "runtime-main.js.map": "/enes3939/slide-cart.git/static/js/runtime-main.b2cef596.js.map",
-    "static/js/2.97820d75.chunk.js": "/enes3939/slide-cart.git/static/js/2.97820d75.chunk.js",
-    "static/js/2.97820d75.chunk.js.map": "/enes3939/slide-cart.git/static/js/2.97820d75.chunk.js.map",
-    "static/js/3.b4bd067e.chunk.js": "/enes3939/slide-cart.git/static/js/3.b4bd067e.chunk.js",
-    "static/js/3.b4bd067e.chunk.js.map": "/enes3939/slide-cart.git/static/js/3.b4bd067e.chunk.js.map",
-    "index.html": "/enes3939/slide-cart.git/index.html",
-    "static/css/main.5adde5b5.chunk.css.map": "/enes3939/slide-cart.git/static/css/main.5adde5b5.chunk.css.map",
-    "static/js/2.97820d75.chunk.js.LICENSE.txt": "/enes3939/slide-cart.git/static/js/2.97820d75.chunk.js.LICENSE.txt"
+    "main.css": "/slide-cart/static/css/main.5adde5b5.chunk.css",
+    "main.js": "/slide-cart/static/js/main.39670e9f.chunk.js",
+    "main.js.map": "/slide-cart/static/js/main.39670e9f.chunk.js.map",
+    "runtime-main.js": "/slide-cart/static/js/runtime-main.87567ac0.js",
+    "runtime-main.js.map": "/slide-cart/static/js/runtime-main.87567ac0.js.map",
+    "static/js/2.97820d75.chunk.js": "/slide-cart/static/js/2.97820d75.chunk.js",
+    "static/js/2.97820d75.chunk.js.map": "/slide-cart/static/js/2.97820d75.chunk.js.map",
+    "static/js/3.b4bd067e.chunk.js": "/slide-cart/static/js/3.b4bd067e.chunk.js",
+    "static/js/3.b4bd067e.chunk.js.map": "/slide-cart/static/js/3.b4bd067e.chunk.js.map",
+    "index.html": "/slide-cart/index.html",
+    "static/css/main.5adde5b5.chunk.css.map": "/slide-cart/static/css/main.5adde5b5.chunk.css.map",
+    "static/js/2.97820d75.chunk.js.LICENSE.txt": "/slide-cart/static/js/2.97820d75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2cef596.js",
+    "static/js/runtime-main.87567ac0.js",
     "static/js/2.97820d75.chunk.js",
     "static/css/main.5adde5b5.chunk.css",
     "static/js/main.39670e9f.chunk.js"
